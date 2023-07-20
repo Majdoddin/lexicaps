@@ -1,11 +1,11 @@
 # lexicaps
-Transcription and Diarization based on by [OpenAI's Whisper](https://github.com/openai/whisper)
+**www.lexicaps.com** 
+Transcription and Diarization based on [OpenAI's Whisper](https://github.com/openai/whisper)
 
-It adds Speaker Tags to Whisper's transcription, so you know who says what. 
-Currently it works for 2 speakers, and is tested for English. We use whispers `medium.en` model.
+I trained a classifier on top of Whisper model features, that identifies any two speakers. No third-party package is used for Diarization.
+I integrated it with Whisper to get a full Transcription-Diarization software.
 
-We use no 3rd party software for Diarization.
-Give it a trye: www.lexicaps.com
+Give it a trye!
 
 ## ToDo
 
