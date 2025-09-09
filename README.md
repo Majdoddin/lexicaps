@@ -2,7 +2,7 @@
 **www.lexicaps.com**  
 Transcription and Diarization based on OpenAI's [Whisper](https://github.com/openai/whisper) 
 
-It augments Whisper's transcription, by adding "speaker tags", so you know who says what. Currently it works for 2 speakers in English, making it ideal for podcasts and interviews.  
+It augments Whisper's transcription, by adding "speaker tags", so you know who says what. Perfect for podcasts and interviews - currently supports 2 speakers in English.  
 
 **SOTA diarization** on top of Whisper's native features - no other diarization model needed.
 
